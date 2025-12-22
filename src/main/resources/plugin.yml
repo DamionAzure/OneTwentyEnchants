@@ -1,0 +1,9 @@
+name: OneTwentyEnchants
+version: '1-1.21.10'
+main: enchonetwenty.OneTwentyEnchants
+api-version: '1.21'
+author: DamionAzure
+description: Adds 120 custom enchantments to the server!
+commands:
+  giveenchant:
+    description: Give yourself a custom enchantment!
